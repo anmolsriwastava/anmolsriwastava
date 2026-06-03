@@ -1,26 +1,24 @@
 # Hi, I'm Anmol Sriwastava
 
-Bachelor of Statistical Data Science Student @ ISI Kolkata
+Bachelor of Statistical Data Science Student @ ISI Kolkata | Building in ML & AI 
 
-## Technical Skills
+## Skills
 
 - Languages: Python, C++, R
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn, scipy, statsmodel
-- Areas: Machine Learning, Statistics & Mathematics , Data Science & Analysis
+- Areas: Machine Learning, Statistics & Mathematics , Data Science & Analysis, Statistical Computing, Optimization
   
-## Interests
+## Focus Area
 
 * Algorithms
-* Machine Learning & AI
-* AI Architectures
+* Machine Learning 
 * Data Science & Analytics
-* Statistical and Mathematical Computing
+* Statistical Modeling & Analysis
 
-## Currently Exploring
+## Learning
 
-* Data Structures & Algorithms
-* Probability & Statistics
 * ML Systems
 * Probabilistic Machine Learning
 * Deep Learning
-* Data Analysis
+* AI Systems & Architectures (RAG, LLM Pipelines)
+
