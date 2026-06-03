@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anmol Sriwastava
 
-<!--
-**anmolsriwastava/anmolsriwastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor of Statistical Data Science Student @ ISI Kolkata
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Algorithms
+* Machine Learning & AI
+* AI Architectures
+* Data Science & Analytics
+* Statistical and Mathematical Computing
+
+## Currently Exploring
+
+* Data Structures & Algorithms
+* Probability & Statistics
+* ML Systems
+* Probabilistic Machine Learning
+* Deep Learning
+* Data Analysis
+
+## Connect
+
+* LinkedIn: linkedin.com/in/anmol-sriwastava
+* X: x.com/anmol_srw
