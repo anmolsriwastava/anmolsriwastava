@@ -1,6 +1,7 @@
 # Hi, I'm Anmol Sriwastava
 
 Bachelor of Statistical Data Science Student @ ISI Kolkata | Building in ML & AI 
+I explore broadly, build intentionally.
 
 ## Skills
 
