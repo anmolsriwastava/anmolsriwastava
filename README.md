@@ -5,8 +5,8 @@ Bachelor of Statistical Data Science Student @ ISI Kolkata | Building in ML & AI
 ## Skills
 
 - Languages: Python, C++, R
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn, scipy, statsmodel
-- Areas: Machine Learning, Statistics & Mathematics , Data Science & Analysis, Statistical Computing, Optimization
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels
+- Areas: Machine Learning, Data Science & Analysis, Statistical Computing, Optimization
   
 ## Focus Area
 
