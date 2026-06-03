@@ -18,8 +18,3 @@ Bachelor of Statistical Data Science Student @ ISI Kolkata
 * Probabilistic Machine Learning
 * Deep Learning
 * Data Analysis
-
-## Connect
-
-* LinkedIn: linkedin.com/in/anmol-sriwastava
-* X: x.com/anmol_srw
