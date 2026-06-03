@@ -15,7 +15,7 @@ Bachelor of Statistical Data Science Student @ ISI Kolkata | Building in ML & AI
 * Data Science & Analytics
 * Statistical Modeling & Analysis
 
-## Learning
+## Exploring
 
 * ML Systems
 * Probabilistic Machine Learning
