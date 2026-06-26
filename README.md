@@ -6,8 +6,8 @@ Bachelor of Statistical Data Science Student @ ISI Kolkata | Interested in ML, A
 
 - Languages: Python, C++, R, SQL
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn, CVXPY, SciPy, Statsmodels, Scikit-Learn, PyTorch
-- Tools : Jupyter Notebooks, Render
-- Development: FastAPI, Git
+- Tools : FastAPI, Git,Jupyter Notebooks, Render
+
 
   
 ## Focus Area
