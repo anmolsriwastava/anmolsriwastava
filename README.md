@@ -16,7 +16,7 @@ Bachelor of Statistical Data Science Student @ ISI Kolkata | Interested in ML, A
 - Machine Learning
 - Deep Learning & AI Research
 - Applied AI Systems (RAG, LLM Pipelines)
-- Statistical Modeling, Forecasting & Predictive Analytics
+- Financial Data Science, Forecasting & Predictive Analytics
 - Data Science & Analytics
 - Probabilistic ML
   
